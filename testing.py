@@ -1,1 +1,1 @@
-print"Hello Ravindra"
+Welcome to the Multicloud class
