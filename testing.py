@@ -1,2 +1,1 @@
-Welcome to the Multicloud class Ravindra
-testing fetch command
+Welcome to the Multicloud class Ravindra -aws01
